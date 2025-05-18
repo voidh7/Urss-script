@@ -1,4 +1,3 @@
-<img src="https://telegra.phundefined">
 
 # Urss-script
 
