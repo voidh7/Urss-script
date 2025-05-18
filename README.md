@@ -1,3 +1,5 @@
+<img src="https://telegra.phundefined">
+
 # Urss-script
 
 Constituição da URSS Script
